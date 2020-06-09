@@ -10,3 +10,5 @@ policies FIFO and Round Robin. Also, we have used fork for creating process crea
 We have also used multithreading for storing the values from the readers simultaneously.
 
 Please read the final report for getting a clear understanding
+
+Note: The python codes and report are just for reference only.Kindly dont use the same code and report as there are copyright claims.
